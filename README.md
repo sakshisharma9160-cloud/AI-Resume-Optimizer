@@ -12,9 +12,6 @@ This project combines basic C++ programming with AI tools to analyze and improve
 ## Workflow
 Sample Resume → C++ Analysis → AI Improvement
 
-## Output
-(Add screenshot here)
-
 ## What I Learned
 - File handling in C++
 - Basic resume analysis
